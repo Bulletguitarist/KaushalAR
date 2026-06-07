@@ -12,7 +12,7 @@
 
 <br/>
 
-**KaushalAR** is India's first augmented reality skill training platform built for ITI (Industrial Training Institute) students and blue-collar workers. We deliver hands-on AR-guided training directly through a standard Android smartphone — no expensive hardware required.
+**KaushalAR** is India's first augmented reality skill training platform built for ITI (Industrial Training Institute) students and blue-collar workers. We deliver hands-on AR-guided training directly through a standard Android smartphone, no expensive hardware required.
 
 <br/>
 
@@ -42,7 +42,7 @@ India has **47 million blue-collar workers** who need quality skill training. Ex
 ## Features
 
 ### AR Overlay Training
-Real-time augmented reality overlays delivered directly through the phone camera. Step-by-step visual instructions appear on top of actual tools and workspaces — no markers, no headsets.
+Real-time augmented reality overlays delivered directly through the phone camera. Step-by-step visual instructions appear on top of actual tools and workspaces, no markers, no headsets.
 
 ```
 Supported Trades
@@ -56,16 +56,16 @@ Supported Trades
 ```
 
 ### Vernacular AI Mentor
-Powered by Google Gemini 1.5 Flash. Students interact in Hindi (and 11+ regional languages) and receive instant, contextual answers. No English required.
+Powered by Google Gemini 1.5 Flash and Students interact in Hindi (and 11+ regional languages) and receive instant, contextual answers. No English required.
 
 ### DigiLocker Certificate
-Upon completing a trade module, students automatically receive a verifiable digital certificate aligned with NSDC standards — directly integrated with India's official DigiLocker platform.
+Upon completing a trade module, students automatically receive a verifiable digital certificate aligned with NSDC standards, directly integrated with India's official DigiLocker platform.
 
 ### Offline-First Architecture
 Entire course content compresses to under 50MB. The app functions fully without internet connectivity and syncs progress automatically when a connection becomes available.
 
 ### Gamification Engine
-Streak tracking, points system, badges, and leaderboards modeled after Duolingo — driving 3× higher retention compared to passive video platforms.
+Streak tracking, points system, badges, and leaderboards modeled after Duolingo, driving 3× higher retention compared to passive video platforms.
 
 ```
 Levels:  Beginner → Intermediate → Advanced → Expert
@@ -83,8 +83,6 @@ AI Integration: Google Gemini 1.5 Flash API
 Offline Storage: AsyncStorage with sync queue
 Certificate:    DigiLocker API + native Share API
 Backend (v2):   Node.js + Express + PostgreSQL
-Hosting:        Railway.app / Render.com
-Theme:          GitHub Premium Dark (#0D1117)
 ```
 
 ---
@@ -191,9 +189,10 @@ Please ensure your code is clean, commented, and follows the existing style conv
 
 ---
 
-## License
+## Author 
+Team Infinite Loopers
 
-This project is licensed under the [MIT License](LICENSE).
+
 
 ---
 
